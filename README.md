@@ -45,23 +45,14 @@
 * [도란도란 Notion](https://www.notion.so/by-GrassHouse-d46650e173d347e89089bfd88ad1be66)
 
 
-### ✏️ 글쓰기
-* [팀 프로젝트가 나에게 남긴 것](https://github.com/chws/woowa-writing-2/blob/level3-write/level3.md)
-</br>
-
 ## Level 4: HTTP와 레거시
 ### 💻 히로와 함께하는 미션
 | no.  | Mission                                 | Code                                                | Code Review                                        |
 | ---- | -------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
 | 1    | HTTP 이해 - 웹 서버 구현               | https://github.com/chws/jwp-was/tree/step1          | [here](https://github.com/woowacourse/jwp-was/pull/31)  |
 | 2    | HTTP 이해 - 웹 서버 리팩토링           | https://github.com/chws/jwp-was/tree/chws           | [here](https://github.com/woowacourse/jwp-was/pull/143) |
-| 3    | HTTP 이해 - 로그인 및 세션 구현        |   | [here]()  |
-| 4    | HTTP 이해 - multi module 적용          |   | [here]()  |
-| 5    | 점진적인 리팩터링 - 테스트를 통한 코드 보호  |   | [here]()  |
-| 6    | 점진적인 리펙터링 - 서비스 리팩터링         |   | [here]() |
-| 7    | 점진적인 리펙터링 - 양방향을 단방향         |   | [here]()   |
-| 8    | 점진적인 리펙터링 - 외부 API 추가          |   | [here]()   |
+
 
 ### ✏️ 글쓰기
-* [내가 꿈꾸는 프로그래머로서의 삶]()
+* [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/chws/woowa-writing-2/blob/chws/level4.md)
 </br>
